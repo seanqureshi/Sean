@@ -1,0 +1,30 @@
+.main-background {
+    display: flex; 
+    position: relative;
+    height: 80vh;
+    flex-direction: column;
+    justify-content: center;
+    z-index: -1;
+    background-color: #120c0c;
+}
+
+.main-text {
+    display: flex;
+    position: absolute;
+    color: white;
+     padding-left: 195px; 
+    font-family: Arial;
+}
+
+/* .button-main {
+    display: flex;
+    position: absolute;
+    height: 55px;
+    color: white;
+    background: #e14127;
+    font-family: serif;
+    margin-left: 200px;
+    margin-top: 70px;
+    border-radius: 10px;
+   
+} */

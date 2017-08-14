@@ -1,0 +1,12 @@
+.costume {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    height: 30px;
+    background-color: #3a3230;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: -5px;
+    padding-top: 15px;
+}
